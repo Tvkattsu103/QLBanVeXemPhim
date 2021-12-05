@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\bin\Debug\QLBanVeXemPhim.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\bin\Debug\QLBanVeXemPhim.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\bin\Debug\QLBanVeXemPhim.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.frmMonAn.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.DSMonAn.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.MonAnTrongGio.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.frmChonLich.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.frmChonPhim.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.DSPhim.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.DSThoiGian.resources
